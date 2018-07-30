@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,redux_logger",
+    "logging_enabled": "false",
+    "name": "redux_loggerSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "redux_loggerSmokeTest.js"
+}
